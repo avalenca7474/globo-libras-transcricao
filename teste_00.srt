@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:00:12,240
+Bom dia, hoje é dia 30 do 3, vi dois mil e vinte e seis, são nove escuete e dois da manhã.
+
+2
+00:00:12,240 --> 00:00:19,440
+E esse é o segundo áudio de teste que eu estou gravando aqui, o seu áudio aleatório
+
+3
+00:00:19,440 --> 00:00:24,000
+para poder testar o nosso código e é isso.
+
