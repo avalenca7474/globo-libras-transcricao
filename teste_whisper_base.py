@@ -12,10 +12,10 @@ print("Carregando o modelo da IA...")
 modelo = whisper.load_model("base")
 
 print("Ouvindo o áudio e calculando os tempos de fala...")
-resultado = modelo.transcribe("teste002.wav")
+resultado = modelo.transcribe("26-03-30_LibrasTrechosBaseLimpa_Justica.mp4")
 
 # Nome do arquivo que vamos criar
-nome_arquivo_srt = "teste_00.srt"
+nome_arquivo_srt = "teste_01_video.srt"
 
 print("\nGerando o arquivo de legendas...")
 

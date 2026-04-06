@@ -1,0 +1,9 @@
+# Ignorar arquivos de mídia pesados
+*.mp4
+*.wav
+*.mkv
+*.mp3
+
+# Ignorar pastas de ambiente virtual Python (se você criar no futuro)
+venv/
+.env
