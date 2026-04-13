@@ -1,3 +1,7 @@
+# Pastas que não devem subir para o GitHub
+audios_videos/
+teste_aula/
+
 # Ignorar arquivos de mídia pesados
 *.mp4
 *.wav
