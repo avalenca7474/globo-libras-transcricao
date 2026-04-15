@@ -1,0 +1,4 @@
+openai-whisper
+gradio
+setuptools-rust
+ffmpeg-python
