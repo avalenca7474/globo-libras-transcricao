@@ -1,4 +1,4 @@
-openai-whisper
-gradio
-setuptools-rust
-ffmpeg-python
+fastapi
+uvicorn
+faster-whisper
+python-multipart
