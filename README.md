@@ -106,8 +106,8 @@ O sistema consome o endpoint em ciclos periódicos (ex: a cada 30 segundos) inje
 ## 👥 Membros do Grupo (Equipe 2)
 
 * Adriano Valença
-* Carlos
+* Carlos Henrique
 * Gabriel Soares
-* Cauã
+* Cauã Oliveira
 
 **Status do Projeto:** 🟢 Concluído e em Produção (Sprint 06)
